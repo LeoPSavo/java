@@ -9,9 +9,7 @@ public class StudentTest
 	{
 		Student aluno1 = new Student("Leonardo", 95.0);
 		
-		System.out.printf("O grau de %s eh: %s%n", aluno1.getName(),  
-											aluno1.getLetterGrade());
-		
+		System.out.printf("O grau de %s eh: %s%n", aluno1.getName(), aluno1.getLetterGrade());		
 		
 	}
 }
