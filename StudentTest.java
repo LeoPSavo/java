@@ -12,6 +12,6 @@ public class StudentTest
 		System.out.printf("O grau de %s eh: %s%n", aluno1.getName(),  
 											aluno1.getLetterGrade());
 		
-		// continua na pg. 124 "while"
+		
 	}
 }
